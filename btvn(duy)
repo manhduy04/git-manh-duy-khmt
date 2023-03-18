@@ -1,0 +1,43 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+</head>
+<body>
+    <style>
+        img.x{ position:absolute;left:0px; top:0px;
+        z-index:-1}
+    h1{
+        position: absolute;
+        text-align: center;
+        padding-left: 40%;
+        padding-top: 6%;
+        padding-right: 30%;
+    }
+    p{
+        padding-left: 50px;
+        padding-right: 50px;
+        padding-top: 20px;
+        padding-bottom: 50px;
+    }
+    </style>
+    <body>
+        <h1 style="text-align: center;color: aqua;">Nguyen Manh duy</h1>
+        <p style="color: rgb(7, 5, 5);">Quê hương em mới tươi đẹp làm sao! Những con đường làng quanh co trải dài tít tắp. Hai bên đường là những lũy tre xanh rì rào trong gió. Con đường đất trải dài đến vô tận. Bốn mùa xuân, hạ, thu, đông ở quê hương em đều có những vẻ đẹp rất riêng.
+
+            Xuân về quê em như thay áo mới, màu sắc của chồi non của hoa màu bung nở rực rỡ làm lên một vùng đất trời tràn ngập sức sống. Những ngày hè, tiếng ve kêu râm ran trên vòm cây xanh lá. Cây đa nơi đầu đình là nơi đông người tập trung nhất. Nào trẻ con, người già, tiếng cười đùa rôm rả vang vọng khắp không gian làng quê, những bóng cây xanh như mở ra một khoảng trời xanh mát mới, không còn cái nóng như thiêu đốt của nắng hạ mà chỉ còn những cơn gió, những câu chuyện trò của trẻ nhỏ, người già.
+            
+            Chiều chiều, trên những cánh đồng lúa vàng là những đàn cò bay lả bay la. Những cơn gió hè mang theo hương đồng cỏ nội bay đi khắp con đường làng. Hương lúa mới quyện vào mùi đất đai như một dấu ấn tuyệt vời nhất mà em chẳng thể nào quên nơi quê hương mình.
+            
+            Thu sang, lá vàng lại làm cho bức tranh quê thêm bao phần thơ mộng, khung cảnh ấy gợi lên những rung động, những hoài niệm thân quen. Đông về, không gian yên lặng và chỉ còn tiếng rít của những cơn gió buốt lạnh. Cây cối khi ấy gầy gò và yếu ớt nhưng vùng đất ấy vẫn âm thầm cố gắng nuôi trong mình dòng chảy tràn trề nhựa sống để rồi khi xuân sang lại thêm phần rực rỡ, sáng tươi. Quê hương!
+            
+            Hai tiếng gọi ấy thật thân thương và gần gũi. Mảnh đất ven bờ sông Hồng được nhận biết bao phù sa, làm lên vùng quê trù phú và màu mỡ, đẹp đẽ đến như vậy. Ôi, em yêu biết mấy quê hương tươi đẹp của mình!</p>
+        <img class="x" width="100%"
+        height="100%" src="https://hinhanhdep.vn/wp-content/uploads/2019/07/anh-dep-nhat-the-gioi-ve-thien-nhien-3.jpg">
+    
+</body>
+
+</html>
